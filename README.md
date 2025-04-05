@@ -4,3 +4,7 @@ Assignment repository for UNT CSCE1015
 
 ## Favorite Linux Command
 ls -la
+## EUID
+gl0301
+## Favorite Linux Command
+ls -la
